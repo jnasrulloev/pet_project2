@@ -1,1 +1,2 @@
 API logic
+GET endpoint
